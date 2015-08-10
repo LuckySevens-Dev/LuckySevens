@@ -1,0 +1,9 @@
+Building LuckySevens
+
+See doc/readme-qt.rst for instructions on building LuckySevens-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LuckySevens.
+
+See doc/build-*.txt for instructions on building luckysevensd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LuckySevens.
